@@ -2,15 +2,11 @@
 
 > Public skills for AI coding agents
 
-A curated collection of reusable skills and capabilities for AI-powered coding assistants.
+A curated collection of reusable skills I personally use for AI-powered coding assistants.
 
 ## 📚 Available Skills
 
 - **[nextjs-version-upgrade](./nextjs-version-upgrade)** - Automated Next.js version upgrade capabilities
-
-## 🎯 Purpose
-
-This repository provides structured skills that can be used by AI coding agents to perform specialized tasks with precision and consistency.
 
 ## 📄 License
 
